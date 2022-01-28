@@ -1,0 +1,102 @@
+h1{
+    /* background-color: blue; */
+    text-align: left;
+    font-size: 7rem;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(29, 26, 73);
+}
+.maindiv{
+    width: 70%;
+    height: auto;
+    background-color:rgb(172, 172, 172);
+    border-radius: 20px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    /* text-align: center; */
+    justify-content: center;
+    margin-left: 15%;
+    margin-top: -5rem;
+    box-shadow: gray 5px 10px 10px 0px;
+}
+h2{
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: underline 5px;
+}
+h3 {
+    font-weight: bold;
+    font-size: 1.5rem;
+    background-color: rgba(255, 255, 255, 0.116);
+}
+/* .certDiv {
+    display: grid;
+    grid-template-columns: 10% 70% 10%;
+} */
+.cert{
+    margin-top: 5rem;
+    padding-left: 15%;
+    /* grid-column: 2/3; */
+    width: 80rem;
+    /* box-shadow: rgba(0, 0, 255, 0.637) 10px 10px 20px 0px; */
+}
+.Chead {
+    text-decoration: underline;
+    margin-left: 10rem;
+
+}
+.Cdiv {
+    margin-left: 10rem;
+    width: 80%;
+    height: auto;
+    background-color: rgba(245, 245, 245, 0.623);
+}
+.imgdiv {
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    grid-column: 2/3;
+}
+.qa {
+    grid-column: 2/3;
+    text-align: center;
+    margin-left: 18%;
+}
+.imgdiv p {
+    grid-column: 2/3;
+    font-size: 16px;
+}
+.imgdiv p span {
+    font-weight: bold;
+}
+.pic{
+    padding-top: 5rem   ;
+    padding-left: 6rem;
+    width: 90%;
+    height: 65vh;
+    /* margin-top: 5rem; */
+    /* margin-left: auto; */
+}
+.cmain {
+    width: 80%;
+    height: 600px;
+    margin-left: 10%;
+    padding: 1rem;
+    background-color: rgba(245, 245, 245, 0.575);
+    display: grid;
+    grid-template-columns: 50% 50% ;
+}
+.j1{
+    width: 350px;
+    padding-top: 0rem;
+    padding-left: 3rem;
+    letter-spacing: -1px;
+}
+.j1 p {
+    font-size: 15px;
+    font-weight: bold;
+}
+.j1 span {
+    font-size: 10px;
+}
+.con {
+    font-size: 5rem;    
+}
